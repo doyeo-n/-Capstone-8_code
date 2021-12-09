@@ -1,11 +1,13 @@
 # READ ME !
 
-대상 수계에 적합한 녹조 관리를 위한 모델링 및 관리 프로토콜 제시
-(Modeling algae management suitable and proposal of management protocols for target water systems.)
+## 대상 수계에 적합한 녹조 관리를 위한 모델링 및 관리 프로토콜 제시
+### (Modeling algae management suitable and proposal of management protocols for target water systems.)
 
-#환경공학부 김현수, 박신범, 이도연, 이병원
+# 환경공학부 김현수, 박신범, 이도연, 이병원
 
 설계 과정에서 사용된 코드를 업로드 하였습니다. 아래의 간략한 설계 정리 내용을 참고하여 확인 가능합니다:-)
+
+![image](https://user-images.githubusercontent.com/86703540/145334201-98ff5c25-361a-485b-9627-4c4cb09d7a69.png)
 
 설계 배경 및 목표
 -> 배경과 효과
@@ -17,7 +19,7 @@
 - 대상수체인 낙동강 보에 적합한 모델 구축을 통해 빠른 시간 내에 수체 적용 및 활용 가능한 범용성 높은 모델 설계
 - 시계열 데이터의 경향을 반영하는 값으로 신뢰성 있는 결측치 대체 및 보완을 통해 불완전한 시계열 데이터의 측정주기 통합
 - 다양한 녹조 조감 기술과 예측 모델을 접목하여 녹조 저감을 위한 사전, 사후처리 기술 실증화
-![image](https://user-images.githubusercontent.com/86703540/145334201-98ff5c25-361a-485b-9627-4c4cb09d7a69.png)
+
 
 -> 모델링 아이디어
 데이터 대체 방법론과 모델 조합을 통해 4개의 아이디어 도출
