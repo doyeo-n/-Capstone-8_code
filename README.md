@@ -3,7 +3,7 @@
 ## 대상 수계에 적합한 녹조 관리를 위한 모델링 및 관리 프로토콜 제시
 ### (Modeling algae management suitable and proposal of management protocols for target water systems.)
 
-# 환경공학부 김현수, 박신범, 이도연, 이병원
+환경공학부 김현수, 박신범, 이도연, 이병원
 
 설계 과정에서 사용된 코드를 업로드 하였습니다. 아래의 간략한 설계 정리 내용을 참고하여 확인 가능합니다:-)
 
